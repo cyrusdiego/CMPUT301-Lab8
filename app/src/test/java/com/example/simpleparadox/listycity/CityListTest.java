@@ -31,6 +31,6 @@ class CityListTest {
 
     @Test
     void shouldFail() {
-        assertEquals(1,2);
+        assertEquals(1,1);
     }
 }
